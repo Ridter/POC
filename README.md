@@ -13,6 +13,8 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2025-06-11
+- [PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞](./wpoc/PagerMaid-Pyro后台管理系统/PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞.md)
+- [Grafana存在未授权SSRF漏洞(CVE-2025-4123)](./wpoc/Grafana/Grafana存在未授权SSRF漏洞(CVE-2025-4123).md)
 - [unibox路由器postprosa接口存在SQL注入](./wpoc/unibox路由器/unibox路由器postprosa接口存在SQL注入.md)
 - [Salia PLCC cPH2 远程命令执行漏洞](./wpoc/Salia/Salia%20PLCC%20cPH2%20远程命令执行漏洞.md)
 - [Supermap iServer任意文件读取漏洞](./wpoc/Supermap%20iServer/Supermap%20iServer任意文件读取漏洞.md)

@@ -2,7 +2,10 @@
 
 # 漏洞描述
 UniBox 是一款一体化网络/热点控制器，可以部署为管理公共 WiFi 热点的热点网关，也可以部署为办公室和企业的网络控制器。unibox路由器postprosa存在SQL注入漏洞，攻击者可以根据该漏洞获取数据库权限，查看大量敏感信息。
-  
+
+# fofa
+body="Unibox" && body="Controller"
+
 ## poc
 
 ```javascript
