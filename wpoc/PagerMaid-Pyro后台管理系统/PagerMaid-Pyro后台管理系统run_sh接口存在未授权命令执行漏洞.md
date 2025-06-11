@@ -1,7 +1,9 @@
 # PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞
 
 # fofa
+```
 title="PagerMaid-Pyro" && body="href=\"https://xtaolabs.com/pagermaid-logo.png\""
+```
 
 # poc
 ```
